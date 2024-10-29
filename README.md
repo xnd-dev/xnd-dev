@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alexandre Barbosa and i'm a front-end developer from Maceió/Alagoas in Brazil📍.</p>
+<p align="left">My name is Alexandre Barbosa and i'm a front-end developer from Maceió/Alagoas in Brazil.📍</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left"> - I’m currently working as a volunteer web developer at an NGO called IPAS. ✨ <br> - I’m currently studying Information Systems at the Pontifical Catholic University of Minas Gerais (PUC). 🎓 <br> - Experience creating scalable and responsive web solutions. 🌐 <br> - I’m looking to collaborate on ReactDOM or React Native projects 👯</p>
+* I’m currently working as a volunteer web developer at an NGO called IPAS. ✨
+* I’m currently studying Information Systems at the Pontifical Catholic University of Minas Gerais (PUC). 🎓
+* Experience creating scalable and responsive web solutions. 🌐
+* I’m looking to collaborate on ReactDOM or React Native projects 👯
+* Technology enthusiast, passionate about games and challenges. 🧩
+* A lover of music, especially classical, jazz, blues, rock and metal. 🎵
+
 
 <h2 align="left">I code with</h2>
 
