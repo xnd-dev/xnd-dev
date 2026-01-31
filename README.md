@@ -13,7 +13,7 @@
 
 * I’m currently studying Information Systems at the Pontifical Catholic University of Minas Gerais (PUC Minas). 🎓
 * Experience creating scalable and responsive web solutions. 🌐
-* I’m looking to collaborate on ReactDOM or React Native projects 👯
+* I’m looking to collaborate on JavaScript or React projects 👯
 * Technology enthusiast, passionate about games and challenges. 🧩
 * A lover of music, especially classical, jazz, blues, rock and metal. 🎵
 
