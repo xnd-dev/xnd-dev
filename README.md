@@ -11,7 +11,7 @@
 ###
 
 
-* I’m currently studying Information Systems at the Pontifical Catholic University of Minas Gerais (PUC). 🎓
+* I’m currently studying Information Systems at the Pontifical Catholic University of Minas Gerais (PUC Minas). 🎓
 * Experience creating scalable and responsive web solutions. 🌐
 * I’m looking to collaborate on ReactDOM or React Native projects 👯
 * Technology enthusiast, passionate about games and challenges. 🧩
