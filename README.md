@@ -10,7 +10,7 @@
 
 ###
 
-* I’m currently working as a volunteer web developer at an NGO called IPAS. ✨
+
 * I’m currently studying Information Systems at the Pontifical Catholic University of Minas Gerais (PUC). 🎓
 * Experience creating scalable and responsive web solutions. 🌐
 * I’m looking to collaborate on ReactDOM or React Native projects 👯
